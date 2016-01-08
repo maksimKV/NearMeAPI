@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearMeAPI", "NearMeAPI\NearMeAPI.csproj", "{61F183D9-7980-4213-86F0-5051D749F7F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearMeAPI.Tests", "NearMeAPI.Tests\NearMeAPI.Tests.csproj", "{7442D9F7-1524-429F-87C5-EF0C38AC898F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F183D9-7980-4213-86F0-5051D749F7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F183D9-7980-4213-86F0-5051D749F7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F183D9-7980-4213-86F0-5051D749F7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F183D9-7980-4213-86F0-5051D749F7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7442D9F7-1524-429F-87C5-EF0C38AC898F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7442D9F7-1524-429F-87C5-EF0C38AC898F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7442D9F7-1524-429F-87C5-EF0C38AC898F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7442D9F7-1524-429F-87C5-EF0C38AC898F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
